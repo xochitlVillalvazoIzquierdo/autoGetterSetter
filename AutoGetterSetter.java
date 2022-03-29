@@ -6,7 +6,7 @@
 	with the getter and setter methods for the variables
 	given.
 	
-	Diego Villalvazo
+	Xochitl Villalvazo Izquierdo
 	June 2020
  */
 
